@@ -1,0 +1,20 @@
+#files to ignore
+id_github
+id_github.pub
+firebase.json
+101.json
+test.json
+test2.json
+test3.json
+*-local.*
+.cnfg
+.json
+
+
+#folders to ignore
+cnfg/*
+devicemanagement/*
+node_modules/*
+*.log
+ignore/*
+logs/*
